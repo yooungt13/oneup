@@ -654,3 +654,16 @@ Already up-to-date.
 To git@github.com:yooungt13/oneup.git
    9bcb0c1..6822cb8  master -> master
 2016-01-28 08:30:01
+[master c5fa3df] Crontab daily push.
+ 1 file changed, 6 insertions(+)
+ssh_exchange_identification: Connection closed by remote host
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+Permission denied (publickey).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+2016-01-29 08:30:01

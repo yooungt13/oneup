@@ -883,3 +883,12 @@ Already up-to-date.
 To git@github.com:yooungt13/oneup.git
    18c9c01..632d56c  master -> master
 2016-03-05 08:30:01
+[master ae33e71] Crontab daily push.
+ 1 file changed, 6 insertions(+)
+Already up-to-date.
+ssh: connect to host github.com port 22: Connection timed out
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+2016-03-06 08:30:01

@@ -1060,3 +1060,10 @@ Already up-to-date.
 To git@github.com:yooungt13/oneup.git
    cf75df3..8e09c51  master -> master
 2016-04-03 08:30:01
+[master dde3480] Crontab daily push.
+ 1 file changed, 6 insertions(+)
+Warning: Permanently added the RSA host key for IP address '192.30.252.123' to the list of known hosts.
+Already up-to-date.
+To git@github.com:yooungt13/oneup.git
+   8e09c51..dde3480  master -> master
+2016-04-04 08:30:01

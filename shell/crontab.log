@@ -2021,3 +2021,11 @@ Already up-to-date.
 To git@github.com:yooungt13/oneup.git
    caacb20..272d08d  master -> master
 2016-09-08 08:30:01
+[master 7b12fc5] Crontab daily push.
+ 1 file changed, 6 insertions(+)
+Already up-to-date.
+remote: fatal error in commit_refs        
+To git@github.com:yooungt13/oneup.git
+ ! [remote rejected] master -> master (failure)
+error: failed to push some refs to 'git@github.com:yooungt13/oneup.git'
+2016-09-09 08:30:01
